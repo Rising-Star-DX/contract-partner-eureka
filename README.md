@@ -1,1 +1,1 @@
-# contract-partner-standard-service
+# contract-partner-eureka-service
